@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^$ /lucky_test/public/ [QSA]
